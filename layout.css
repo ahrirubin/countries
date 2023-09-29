@@ -1,0 +1,47 @@
+.header{
+    background-color: gray;
+padding: 10px 0px 10px 0px;
+color:white;
+text-align: center;
+font-size: 40px;
+border-style: solid;
+border-width: 3px 3px 0px 3px;
+border-color: darkslategray;
+}
+
+.menu{
+background-color: lightpink;
+width:30%;
+height: 200px;
+float: left;
+padding: 10px;
+box-sizing: border-box;
+border-style: solid;
+border-width: 3px;
+border-color: darkslategray;
+}
+
+.content{
+background-color: lightpink;
+height:175px;
+width: 66.5%;
+padding: 10px;
+float: left;
+border-style: solid;
+border-width: 3px 3px 3px 0px;
+border-color: darkslategray;
+
+
+}
+
+.footer{
+background-color: gray;
+padding: 10px 0px 10px 0px;
+color:white;
+text-align: center;
+font-size: 40px;
+border-style: solid;
+border-width: 3px;
+border-color: darkslategray;
+
+}
